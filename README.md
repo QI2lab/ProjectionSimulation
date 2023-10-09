@@ -1,2 +1,2 @@
 # ProjectionSimulation
-[Open simulation to compare standard and projection imaging in Google Colab](https://colab.research.google.com/github/dpshepherd/spatial/blob/master/SimulateStandardvsProjectionImaging.ipynb)
+[Link to Google Colab for standard and projection imaging](https://colab.research.google.com/github/qi2lab/ProjectionSimulation/blob/master/SimulateStandardvsProjectionImaging.ipynb)
